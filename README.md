@@ -23,6 +23,6 @@ To develop an interactive and comprehensive employee performance analysis dashbo
 
 # Conclusion
 The Employee Performance Analysis Dashboard in Power BI helps track employee productivity, attendance, and efficiency. It collects data from HR and task management systems to provide useful insights. Key performance indicators like Task Completion Rate and Attendance Score help managers evaluate employee performance. The system ensures secure access and allows better decision-making. This dashboard helps improve workforce management and overall productivity.
-# Dataset link
+
 
 
