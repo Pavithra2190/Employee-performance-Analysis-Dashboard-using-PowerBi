@@ -5,7 +5,7 @@ To develop an interactive and comprehensive employee performance analysis dashbo
 
 # Key Requrirements
 
-1.Data Integration: The dashboard should integrate data from various sources such as HR systems, project management tools, and performance evaluation software.
+1.Data Integration: The dashboard should integrate data from various sources such as HR systems, project management tools, and performance evaluation software.<br>
 2.KPI Tracking: Track essential KPIs such as employee productivity, project completion rates, sales figures, attendance, and employee satisfaction.
 3.Customizable Metrics: Allow customization of metrics and benchmarks to align with the organization's performance evaluation criteria.
 4.Interactive Visualizations: Provide interactive and visually appealing dashboards with features like drill-downs, filters, and slicers for detailed analysis.
